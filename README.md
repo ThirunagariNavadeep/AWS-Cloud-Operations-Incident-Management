@@ -66,10 +66,10 @@ Confirm current alarm settings in the AWS Console before reproducing this lab; c
 
 ## Repository contents
 
-- `README.md` — project overview and reproduction notes.
-- `architecture.png` — architecture infographic.
-- `incident-report.md` — example incident record based on the lab test.
-- `screenshots/` — place your own AWS Console screenshots here.
+- `README.md` 
+- `architecture.png` 
+- `incident-report.md` 
+- `screenshots/` 
 
 ## Suggested improvements
 
